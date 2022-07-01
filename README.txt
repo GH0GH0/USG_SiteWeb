@@ -1,9 +1,9 @@
 
 TITLE: 
-Foodee - One Page Responsive Free HTML5 template
+Union Sportive de Grigny
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+ABDERRAHMANI Ghouzali
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
